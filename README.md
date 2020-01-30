@@ -29,148 +29,147 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/AuthFailed/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Прекрасный пример README для быстрого запуска ваших проектов!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AuthFailed/Best-README-Template"><strong>Документация »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/AuthFailed/Best-README-Template">Демо</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/AuthFailed/Best-README-Template/issues">Зарепортить</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/AuthFailed/Best-README-Template/issues">Запросить функцию</a>
   </p>
 </p>
 
 
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
+<!-- КОНТЕНТ -->
+## Контент
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
+* [О проекте](#о-проекте)
+  * [Собрано с использованием](#собрано-с-использованием)
+* [Для начала](#для-начала)
+  * [Зависимости](#зависимости)
+  * [Установка](#установка)
+* [Использование](#использование)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Вклад](#вклад)
+* [Лицензия](#лицензия)
+* [Контакты](#контакты)
+* [Благодарности](#благодарности)
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- О ПРОЕКТЕ -->
+## О проекте
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+На GitHub доступно много отличных шаблонов README, однако я не нашел ни одного, который бы действительно соответствовал моим потребностям, поэтому я создал этот шаблон.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+И вот почему:
+* Ваше внимание должно быть сфокусировано на чём-то прекрасном. Например, на проекте, решающем проблему и помоющим другим
+* Вы не должны делать одно и тоже постоянно по типу создания README файла
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+Конечно, ни один шаблон не сможет подходить под все ваши проекты, так как ваши потребности могут меняться. Так что в ближайшем будущем появяться новые шаблоны. Вы так же можете форкнуть этот репозиторий и присылать пул реквесты.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+Список часто используемых ресурсов, которые я нахожу полезными, приведен в благодарностях.
 
-### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+### Собрано с использованием
+В этом разделе должны быть перечислены все основные фреймворки, с помощью которых вы билдите свой проект. Оставьте все аддоны/плагины в разделе "Благодарности". Вот несколько примеров.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- ДЛЯ НАЧАЛА -->
+## Для начала
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Это пример того, как вы можете описать процесс по настройке вашего проекта локально.
+Чтобы получить локальную копию, выполните следующие простые шаги.
 
-### Prerequisites
+### Зависимости
 
-This is an example of how to list things you need to use the software and how to install them.
+Это пример того, как перечислить вещи, которые вам нужно использовать и как их установить.
 * npm
 ```sh
 npm install npm@latest -g
 ```
 
-### Installation
+### Установка
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Получите бесплатный API ключ [https://example.com](https://example.com)
+2. Клонируйте репозиторий
 ```sh
 git clone https://github.com/your_username_/Project-Name.git
 ```
-3. Install NPM packages
+3. Установите пакеты NPM
 ```sh
 npm install
 ```
-4. Enter your API in `config.js`
+4. Вставьте ваш API ключ в `config.js`
 ```JS
 const API_KEY = 'ENTER YOUR API';
 ```
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- ИСПОЛЬЗОВАНИЕ -->
+## Использование
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Используйте это место, чтобы показать полезные примеры того, как проект может быть использован. Дополнительные скриншоты, примеры кода и демо-версии прекрасно подойдут сюда. Вы также можете дать ссылку на дополнительные ресурсы.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_Для большего кол-ва примеров перейдите в [Документацию](https://example.com)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+Посмотрите [открытые проблемы](https://github.com/AuthFailed/Best-README-Template/issues) для получения списка предлагаемых функций (и известных проблем).
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
+<!-- ВКЛАД -->
+## Вклад
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Вклад - это то, что делает сообщество с открытым исходным кодом таким удивительным местом, где можно учиться, вдохновлять и создавать. Любой вклад, который вы делаете, **высоко ценится**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+1. Форкните проект
+2. Создайте отдельную ветку (`git checkout -b feature/AmazingFeature`)
+3. Комитьте изменения (`git commit -m 'Add some AmazingFeature'`)
+4. Пушьте их в ветку (`git push origin feature/AmazingFeature`)
+5. Открывайте пул реквест
 
 
 
-<!-- CONTACT -->
-## Contact
+<!-- ЛИЦЕНЗИЯ -->
+## Лицензия
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Распространяется по лицензии MIT. See `LICENSE` for more information.
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!-- КОНТАКТ -->
+## Контакты
+
+Ваше имя - [@ваш_твиттер](https://twitter.com/ваш_юзернейм) - email@example.com
+
+Ссылка на проект: [https://github.com/ваш_юзернейм/название_репо](https://github.com/ваш_юзернейм/название_репо)
+
+
+
+<!-- БЛАГОДАРНОСТИ -->
+## Благодарности
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
